@@ -22,3 +22,6 @@ func (b *Buffer) Next(n int) []byte
 func (b *Buffer) Read(p []byte) (n int, err error)
 func (b *Buffer) ReadByte() (byte, error)
 ```
+## Refs
+- [MD complete](https://github.github.com/gfm/)
+- [MD Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
