@@ -2,7 +2,7 @@
 
 ## CodeBlocks
 
-```
+```go
 go doc bytes.Buffer
 package bytes // import "bytes"
 
